@@ -1,0 +1,7 @@
+{
+  "name": "Label Lens",
+  "description": "A clinical-grade, AI-powered nutrition scanner that decodes food labels into clear health insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
